@@ -17,6 +17,11 @@ Esta pasta contém os desafios relacionados à área de Automação de Processos
 - `Desafio Técnico.pdf`: Enunciado do desafio técnico principal
 - `Tutorial Streamline.pdf`: Material de suporte com tutorial sobre a ferramenta Streamline
 
+### 3. Finanças (WebApp)
+Esta pasta contém os desafios relacionados ao WebApp, incluindo:
+- `Desafio WebApp.pdf`: Enunciado do desafio de WebApp
+- `Apresentação.pdf`: Apresentação feita no Workshop com as tecnologias usadas no desenvolvimento do WebApp
+
 ## Como Utilizar
 
 1. Navegue até a pasta correspondente à sua área de atuação
